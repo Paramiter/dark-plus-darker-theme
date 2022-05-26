@@ -1,0 +1,21 @@
+{
+    "name": "dark-plus-darker",
+    "displayName": "Dark+ Darker",
+    "description": "Dark+ with darker UI",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ Darker-color-theme.json"
+            }
+        ]
+    }
+}
