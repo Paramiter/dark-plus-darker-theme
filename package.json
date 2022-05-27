@@ -1,10 +1,16 @@
 {
     "name": "dark-plus-darker",
+    "icon": "https://cdn.discordapp.com/avatars/573786721724923905/33d78e697b39ec4720f29c1903fc3284.webp?size=80",
     "displayName": "Dark+ Darker",
     "description": "Dark+ with darker UI",
+    "publisher": "Paramiter",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.67.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Paramiter/dark-plus-darker-theme"
     },
     "categories": [
         "Themes"

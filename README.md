@@ -1,4 +1,3 @@
-# README
 ## "Dark+ Darker"
 
 * Color Theme for Visual Studio Code
