@@ -5,7 +5,7 @@
 
 * You can find this extension in the VSCode Marketplace.
 
-# USAGE
+## USAGE
 * File > Preferences > Color Theme > Dark+ Darker
 
 **Enjoy!**
